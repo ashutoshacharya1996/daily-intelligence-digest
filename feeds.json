@@ -1,0 +1,8 @@
+[
+  {"name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
+  {"name": "BBC Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml"},
+  {"name": "Federal Reserve", "url": "https://www.federalreserve.gov/feeds/press_all.xml"},
+  {"name": "Google AI", "url": "https://blog.google/technology/ai/rss/"},
+  {"name": "UN News", "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml"}
+]
+
